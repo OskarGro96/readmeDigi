@@ -10,7 +10,7 @@ Hola, mi nombre es **Oskar**. Actualmente vivo en **Cambrils** y trabajo como **
 
 ## Contacto
 
-Si deseas contactar más sobre mi, puedes enviarme un correo electrónico a **oskar_cambrils@hotmail.com**.
+Si deseas contactar más sobre mí, puedes enviarme un correo electrónico a **oskar_cambrils@hotmail.com**.
 
 ## 5 Comandos de Terminal
 
